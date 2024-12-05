@@ -7,15 +7,10 @@
   --foreground: #171717;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
-}
+/* body {
+  background-image: url("https://week9-assignment-five.vercel.app/_next/image?url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcTJBTeHtGkoY3_a-PM2Jh85tB8HKsmNiUMJXVk1YAv8dkJ7Q7FFPBDSoTD-vQ98eh6pup4%26usqp%3DCAU&w=640&q=75");
+  /* background-size: cover; */
+  /* background-position: center; */
+  /* margin-top: 400px; */
+  
+/* } */ 
