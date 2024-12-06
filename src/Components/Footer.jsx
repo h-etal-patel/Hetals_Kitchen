@@ -1,6 +1,8 @@
 import { ImFacebook2 } from "react-icons/im";
 import { BsInstagram } from "react-icons/bs";
 import { RiWhatsappFill } from "react-icons/ri";
+
+
 export default function FooterPage() {
     return (
         <>
