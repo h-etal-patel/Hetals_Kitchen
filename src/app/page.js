@@ -6,9 +6,10 @@ export default function homePage() {
 
       <div className="relative w-full h-[600px]">
         <img
-          src="https://files.oaiusercontent.com/file-9WW2mJFp6GoeV9DUw7JonE?se=2024-12-04T21%3A45%3A14Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Db00082f0-a7b4-4901-8d1f-87e3b9c0b2f6.webp&sig=yFkpcf9hYNuZuMhToOn%2BOE84ygtqJgQsvZRPH6JfPko%3D"
+          src="logoimage.jpg"
           className="w-full h-full " // Adjust width and height here
           alt="Hetal's Home Kitchen Logo"
+          
         />
         <div className="absolute inset-0 flex items-end justify-center">
           <p className="text-xl font-semibold text-center  text-gray-700">
